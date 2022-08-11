@@ -124,3 +124,11 @@ li{
 .dieta-img{
     width: 50vw;
 }
+.btn-volver{
+    background-color: rgb(59, 57, 164);
+    color: var(--blanco);
+    border-radius: 2rem;
+    border: 2px solid var(--negro);
+    width: auto;
+   padding: 3rem;
+}
